@@ -3,6 +3,10 @@
 See: https://gist.github.com/acln0/c040e50222bc02711f75a8d95ffa516b
 
 
+# Running the tests
+
+go test ./...
+
 
 # Running the app
 
